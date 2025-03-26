@@ -7,7 +7,7 @@ vsphere_server_password = "password"
 
 # VM location, network, storage and template in vSphere
 vsphere_datacenter_name = "DC#"
-vsphere_host_name       = "vm#.em.loc"
+vsphere_host_name       = "vm#.domain"
 vsphere_network_local   = "Network#"
 vsphere_datastore_name  = "VM#-SSD"
 
